@@ -1,4 +1,5 @@
 # Real-Estate-Price-Analysis-in-France
 
-The data used in this project and the notebook (ipynb file) will be provided soon.
-A Django repo will also be provided soon
+The purpose of this project is to analyze real estate prices in France.
+
+# A Django repo will also be provided soon
